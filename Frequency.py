@@ -1,6 +1,9 @@
-# You are a data analyst working for a publishing company. Your task is to analyze the frequency of letters in a given string from a book excerpt. 
-# Create a Python script that generates a bar chart showing the frequency of each letter in the string. The bar chart should be visually appealing, emphasizing artistic elements such as color and style. 
-# Use the following string as input data: "To be, or not to be, that is the question."
+"""
+You are a data analyst working for a publishing company. Your task is to analyze the frequency of letters in a given string from a book excerpt. 
+Create a Python script that generates a bar chart showing the frequency of each letter in the string. 
+The bar chart should be visually appealing, emphasizing artistic elements such as color and style. 
+Use the following string as input data: "To be, or not to be, that is the question."
+"""
 
 import collections
 

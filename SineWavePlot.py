@@ -1,3 +1,9 @@
+"""
+A client from a design agency needs a visually appealing sine wave plot for a presentation on wave phenomena.
+The plot should not only accurately represent a sine wave but also be artistically styled to catch the audience's attention.
+Using Python, create a visually compelling line plot of a sine wave.
+Ensure that the plot includes appropriate styling elements like color, line style, and annotations to enhance its artistic appeal.
+"""
 import numpy as np
 
 import matplotlib.pyplot as plt
